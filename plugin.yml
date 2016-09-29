@@ -1,0 +1,10 @@
+name: BlockGame
+main: ketao.eu.org.blockgame.Main
+version: 0.1
+description: blockgame
+author: clcondorcet
+
+commands:
+  Bg:
+    description: Main command
+    usage: /Bg

@@ -1,0 +1,35 @@
+Lobby:
+    spawn:
+        x: 0
+        y: 0
+        z: 0
+        yaw: 0
+        pitch: 0
+        world: world
+equipeblock:
+    spawn:
+        x: 0
+        y: 0
+        z: 0
+        yaw: 0
+        pitch: 0
+        world: world
+equipechercheur:
+    spawn:
+        x: 0
+        y: 0
+        z: 0
+        yaw: 0
+        pitch: 0
+        world: world
+exit:
+    spawn:
+        x: 0
+        y: 0
+        z: 0
+        yaw: 0
+        pitch: 0
+        world: world
+Timer: 50
+#combien de joueur pour commencer ?
+Start: 3
